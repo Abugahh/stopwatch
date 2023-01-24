@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stopwatchh</string>
+    <string name ="portraitText">Portrait</string>
+    <string name ="landscapeText">Landscape</string>
+    <string name ="Start">Start</string>
+    <string name ="Pause">Pause</string>
+    <string name ="Reset">Reset</string>
+
+</resources>
